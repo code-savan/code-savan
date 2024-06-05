@@ -60,7 +60,7 @@ const Hero = () => {
             Hi! I&apos;m Marvellous, a FullStack Developer from{" "}
             <a
               href="https://www.codecademy.com/" target="_blank"
-              className="font-bold text-[30px] gradient-text"
+              className="font-bold text-[22px] md:text-[30px] gradient-text"
             >
               Codecademy
             </a>
