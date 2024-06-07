@@ -83,7 +83,7 @@ export const projects = [
   {
     id: 2,
     title: "Stream - Video Conferencing App",
-    des: "Simplify your video conferencing experience with tream. Seamlessly connect with colleagues and friends.",
+    des: "Simplify your video conferencing experience with Stream. Seamlessly connect with colleagues and friends.",
     img: "/p2.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
     link: "/ui.stream.com",
@@ -100,7 +100,7 @@ export const projects = [
   },
   {
     id: 4,
-    title: "Animated Apple Iphone 3D Website",
+    title: "Animated Apple iPhone 3D Website",
     des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
     img: "/p4.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
