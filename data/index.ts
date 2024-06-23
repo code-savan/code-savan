@@ -73,15 +73,6 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: "3D Solar System Planets to Explore",
-    des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
-    img: "/p1.svg",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "/ui.earth.com",
-    live: "",
-  },
-  {
-    id: 2,
     title: "Stream - Video Conferencing App",
     des: "Simplify your video conferencing experience with Stream. Seamlessly connect with colleagues and friends.",
     img: "/p2.svg",
@@ -90,7 +81,7 @@ export const projects = [
     live: "https://stream-nkh.vercel.app",
   },
   {
-    id: 3,
+    id: 2,
     title: "Conversio - GPT Application",
     des: "A real GPT clone powered by Gemini using the latest tech stack.",
     img: "/conversio1.png",
@@ -98,6 +89,16 @@ export const projects = [
     link: "/ui.conversio.com",
     live: "https://conversio-io.netlify.app",
   },
+  {
+    id: 3,
+    title: "Tech Haven - E-commerce Application",
+    des: "I've developed a Next.js-based E-commerce application with robust admin and sales capabilities, supported by a scalable backend for efficient management.",
+    img: "/ecomm.png",
+    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
+    link: "/ui.techhaven.com",
+    live: "",
+  },
+
   {
     id: 4,
     title: "Animated Apple iPhone 3D Website",
